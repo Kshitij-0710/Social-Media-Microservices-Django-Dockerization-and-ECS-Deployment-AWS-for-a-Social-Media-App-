@@ -1,6 +1,3 @@
-Here's a comprehensive outline for documenting your project on GitHub. This guide assumes your Django microservices are set up with REST APIs, Dockerized, and deployed on AWS ECS. Follow this outline to give potential users and collaborators an easy-to-follow walkthrough of your project.
-
----
 
 # Microservices Application with Django REST APIs, Docker, and AWS ECS Deployment
 
